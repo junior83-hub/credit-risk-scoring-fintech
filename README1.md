@@ -1,9 +1,3 @@
-Problem Statement
-
-Microlenders and fintech institutions operate in high-risk lending environments, particularly when serving underbanked populations. Traditional credit scoring approaches often fail to capture alternative behavioral and financial signals, resulting in elevated default rates or exclusion of creditworthy borrowers.
-
-This project develops a machine learning–based credit risk scoring system to predict loan default probability using customer demographic, financial, and behavioral data.
-
 Objectives
 
 Build a robust credit risk prediction model
